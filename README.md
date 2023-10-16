@@ -1,5 +1,7 @@
 # MachineLearning
 Some Machine Learning Assignments from my ERASMUS semester in Università della Svizzera italiana 
+
+
 𝓐𝓢𝓢𝓘𝓖𝓝𝓜𝓔𝓝𝓣 1
 Task 1
 Use the family of models f(x, θ) = θ0 + θ1 · x1 + θ2 · x2 + θ3 · sin(x2) + θ4 · x1 · x2 to fit the
