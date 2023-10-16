@@ -23,7 +23,7 @@ performance measure.
 
 
 𝓐𝓢𝓢𝓘𝓖𝓝𝓜𝓔𝓝𝓣 𝟐
-1. Implement a fully connected feed forward neural network to classify images from
+1. Implement a fully connected feed forward neural network(FFN) to classify images from
 the Cats of the Wild dataset.
-2. Implement a convolutional neural network to classify images of Cats of the Wild
+2. Implement a convolutional neural network(CNN) to classify images of Cats of the Wild
 dataset.
